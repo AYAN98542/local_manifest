@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/juice" name="AYAN98542/device_xiaomi_juice.git" remote="github" revision="snow" />
+ <project path="device/xiaomi/juice" name="AYAN98542/device_xiaomi_juice.git" remote="github" revision="voltage" />
  <project path="vendor/xiaomi/juice" name="kalkioss/vendor_xiaomi_juice.git" remote="github" revision="snow" />
  <project path="kernel/xiaomi/juice" name="javashin/Xiaomi-Fury-Bengal-SD662.git" remote="github" revision="JuiceIcedSnow" />
  
